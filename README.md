@@ -18,7 +18,7 @@ for strin in data:
     file.write(res_str[:len(res_str) - 1] + "\n")
 file.close()
 ```
-![Результат](https://vk.com/im?peers=c286_90175193&sel=66617614&z=photo66617614_457243428%2Fmail1227713)
+![Результат](https://github.com/python-basic/sem3-t3-TsirulikIvan/blob/master/yrIoPg8r17E.jpg)
 
 ### 3.4. Реализовать программу шифрующую строку, задаваемую пользователем, с помощью алгоритма шифрования ROT13. Формирование отчета по выполнению задания и размещение его в портфолио, персональном репозитории.
 ```python
